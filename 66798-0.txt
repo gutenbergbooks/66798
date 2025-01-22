@@ -1,5 +1,4 @@
-﻿The Project Gutenberg eBook of Secret of the Martians, by Paul W.
-Fairman
+﻿The Project Gutenberg eBook of Secret of the Martians, by Paul W. Fairman
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -13,15 +12,16 @@ Title: Secret of the Martians
 
 Author: Paul W. Fairman
 
-Release Date: April 12, 2022 [eBook #66798]
+Release Date: November 23, 2021 [eBook #66798]
 
 Language: English
+
+Character set encoding: UTF-8
 
 Produced by: Greg Weeks, Mary Meehan and the Online Distributed
              Proofreading Team at http://www.pgdp.net
 
 *** START OF THE PROJECT GUTENBERG EBOOK SECRET OF THE MARTIANS ***
-
 
 
 
